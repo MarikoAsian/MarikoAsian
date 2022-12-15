@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarikoAsian
+- 👋 Hi, I’m MarikoChba
 - 👀 I’m interested in website setting-up
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
